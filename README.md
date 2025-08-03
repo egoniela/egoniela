@@ -7,7 +7,7 @@
 
 <hr>
 
-### 🖥️ Languages I usually use<br/><br/>
+### 🖥️ Programming Languages<br/><br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -32,7 +32,7 @@
 
 ###
 
-### 📊 Other things In can handle<br/><br/>
+### 📊 Technical Skills<br/><br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
