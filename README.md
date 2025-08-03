@@ -1,6 +1,6 @@
 ## Oh, it's you (It's been a long time) 🍃
 
-💼 Been working in some Game Dev projects, Web Developing and Cybersecurity<br/>
-📚 Certificated as a Developer, Cybersecurity Professional and working towards AI<br/>
-🌱 Actually working on my own projects with other teammates<br/>
-📖 In my spare time, training as a screenwriter and novelist<br/>
+💼 <b>Working on</b> Game Dev projects, Web <b>Development</b> and Cybersecurity<br/>
+📚 <b>Certified</b> as a Developer, Cybersecurity Professional and <b>currently studying</b> AI<br/>
+🌱 <b>Currently collaborating</b> on my own projects with teammates<br/>
+📖 In my spare time, <b>I train</b> as a screenwriter and novelist<br/>
