@@ -1,0 +1,51 @@
+<svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                /* Contenedor principal de la tarjeta */
+                .container {
+                    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%;
+                    height: 200px; /* Asegúrate que esta altura coincida con la del SVG */
+                    
+                    /* --- ESTILOS QUE QUIERES PERSONALIZAR --- */
+                    background-color: #f6f8fa; /* Fondo gris claro (color de GitHub) */
+                    border: 1px solid #d0d7de; /* Borde sutil */
+                    border-radius: 10px;       /* Esquinas redondeadas */
+                    padding: 20px;
+                    box-sizing: border-box; /* Asegura que el padding no altere el tamaño total */
+                    transition: background-color 0.3s ease-in-out; /* Transición suave */
+                }
+
+                /* Efecto al pasar el ratón por encima */
+                .container:hover {
+                    background-color: #f0f2f5; /* Un gris ligeramente más oscuro */
+                }
+
+                /* Estilos para el texto dentro de la tarjeta */
+                h3 {
+                    margin: 0;
+                    font-size: 24px;
+                    color: #24292f;
+                }
+                p {
+                    margin: 8px 0 0 0;
+                    font-size: 16px;
+                    color: #57606a;
+                }
+
+            </style>
+
+            <!-- Este es tu "div". Aquí va el contenido que quieres mostrar -->
+            <div class="container">
+                <h3>✨ ¡Hola! Soy tu Div Personalizado ✨</h3>
+                <p>Pasa el ratón sobre mí para ver el efecto.</p>
+            </div>
+
+        </div>
+    </foreignObject>
+</svg>
